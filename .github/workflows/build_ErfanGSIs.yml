@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.science/update/SS-G950USQS5CRL1-to-U5DRL7-UP
+  ROM_URL: https://fw-sci.s3.us-west.stackpathstorage.com/firmware/SS-G950USQS5CRL1-to-U5DRL7-UP?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3VAY3IFBH85E8981GF21%2F20210120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210120T040902Z&X-Amz-Expires=86400&X-Amz-Signature=faf87fcab7adf1000eba28093a74c8a068d2654e375808e01e7a08e762075765&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22firmware-science-G950USQS5CRL1-to-G950USQU5DRL7.zip%22
   ROM_NAME: OneUI
   TZ: Asia/Shanghai
 
